@@ -5,16 +5,14 @@ font-family: cursive;
 font-size: 18px;
 line-height: 1.5;
 }
-
 .card{
-width: 800px;   
+width: 600px;   
 margin: 30px auto;
 background-color: #fff;
 box-shadow: 0 5px 10px #ccc;
 border-radius: 10px;
 padding: 20px;
 }
-
 .card-photo {
 display: block;
 width: 150px;
