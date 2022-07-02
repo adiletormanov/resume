@@ -1,0 +1,57 @@
+body {
+margin: 0;
+background:url("../img/pattern.png");
+font-family: cursive;
+font-size: 18px;
+line-height: 1.5;
+}
+
+.card{
+width: 800px;   
+margin: 30px auto;
+background-color: #fff;
+box-shadow: 0 5px 10px #ccc;
+border-radius: 10px;
+padding: 20px;
+}
+
+.card-photo {
+display: block;
+width: 150px;
+height: 150px;
+margin: 0 auto;
+    border-radius: 50%;
+}
+.class-title {
+font-size: 20px;
+    text-align: center;
+    color: darkcyan;
+}
+.card-text {
+    font-size: 14px;
+    color: #f80000;
+    
+}
+.card-subtitle {
+    font-size: 18px;
+    
+}
+.card-list{
+    font-size: 14px;
+    color: #f80000;
+padding-left: 0;
+    list-style-position: inside;
+}
+.card-obr{
+font-size: 18px;
+}
+.card-obraz{
+font-size: 14px;
+   color: #f80000;
+padding-left: 0;
+    list-style-position: inside;
+}
+.card-publ{
+font-size: 18px;
+
+}
